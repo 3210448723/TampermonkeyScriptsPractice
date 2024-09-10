@@ -1,0 +1,2 @@
+# TampermonkeyScriptsPractice
+自己编写的暴力猴脚本
